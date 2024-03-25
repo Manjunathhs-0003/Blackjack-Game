@@ -29,7 +29,7 @@
   <li>Clone the repository to your local machine:</li>
 </ol>
 <pre>
-git clone https://github.com/your-username/blackjack-game.git
+git clone https://github.com/your-username/blackjack-Game.git
 </pre>
 
 <ol start="2">
