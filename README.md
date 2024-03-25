@@ -43,7 +43,7 @@ cd blackjack-game
   <li>Run the game:</li>
 </ol>
 <pre>
-python blackjack_game.py
+python main.py
 </pre>
 
 <h2>Usage</h2>
